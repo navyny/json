@@ -1,2 +1,4 @@
 this is second file-first lin
 adding a second line.e
+
+Adding a 3rd line --while in git branch Mybranch1 
